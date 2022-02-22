@@ -1,0 +1,121 @@
+﻿Afghanistan
+script.js:16 Asia
+script.js:18 Southern Asia
+script.js:20 27657145
+script.js:14 Åland Islands
+script.js:16 Europe
+script.js:18 Northern Europe
+script.js:20 28875
+script.js:14 Albania
+script.js:16 Europe
+script.js:18 Southern Europe
+script.js:20 2886026
+script.js:14 Algeria
+script.js:16 Africa
+script.js:18 Northern Africa
+script.js:20 40400000
+American Samoa
+script.js:16 Oceania
+script.js:18 Polynesia
+script.js:20 57100
+script.js:14 Andorra
+script.js:16 Europe
+script.js:18 Southern Europe
+script.js:20 78014
+script.js:14 Angola
+script.js:16 Africa
+script.js:18 Middle Africa
+script.js:20 25868000
+script.js:14 Anguilla
+script.js:16 Americas
+script.js:18 Caribbean
+script.js:20 13452
+script.js:14 Antarctica
+script.js:16 Polar
+script.js:18 
+script.js:20 1000
+script.js:14 Antigua and Barbuda
+script.js:16 Americas
+script.js:18 Caribbean
+script.js:20 86295
+script.js:14 Argentina
+script.js:16 Americas
+script.js:18 South America
+script.js:20 43590400
+script.js:14 Armenia
+script.js:16 Asia
+script.js:18 Western Asia
+script.js:20 2994400
+script.js:14 Aruba
+script.js:16 Americas
+script.js:18 Caribbean
+script.js:20 107394
+script.js:14 Australia
+script.js:16 Oceania
+script.js:18 Australia and New Zealand
+script.js:20 24117360
+script.js:14 Austria
+script.js:16 Europe
+script.js:18 Western Europe
+script.js:20 8725931
+script.js:14 Azerbaijan
+script.js:16 Asia
+script.js:18 Western Asia
+script.js:20 9730500
+script.js:14 Bahamas
+script.js:16 Americas
+script.js:18 Caribbean
+script.js:20 378040
+script.js:14 Bahrain
+script.js:16 Asia
+script.js:18 Western Asia
+script.js:20 1404900
+script.js:14 Bangladesh
+script.js:16 Asia
+script.js:18 Southern Asia
+script.js:20 161006790
+script.js:14 Barbados
+script.js:16 Americas
+script.js:18 Caribbean
+script.js:20 285000
+script.js:14 Belarus
+script.js:16 Europe
+script.js:18 Eastern Europe
+script.js:20 9498700
+script.js:14 Belgium
+script.js:16 Europe
+script.js:18 Western Europe
+script.js:20 11319511
+script.js:14 Belize
+script.js:16 Americas
+script.js:18 Central America
+script.js:20 370300
+script.js:14 Benin
+script.js:16 Africa
+script.js:18 Western Africa
+script.js:20 10653654
+script.js:14 Bermuda
+script.js:16 Americas
+script.js:18 Northern America
+script.js:20 61954
+script.js:14 Bhutan
+script.js:16 Asia
+script.js:18 Southern Asia
+script.js:20 775620
+script.js:14 Bolivia (Plurinational State of)
+script.js:16 Americas
+script.js:18 South America
+script.js:20 10985059
+script.js:14 Bonaire, Sint Eustatius and Saba
+script.js:16 Americas
+script.js:18 Caribbean
+script.js:20 17408
+script.js:14 Bosnia and Herzegovina
+script.js:16 Europe
+script.js:18 Southern Europe
+script.js:20 3531159
+script.js:14 Botswana
+script.js:16 Africa
+script.js:18 Southern Africa
+script.js:20 2141206
+script.js:14 Bouvet Island
